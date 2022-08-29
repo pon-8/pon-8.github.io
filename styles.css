@@ -1,0 +1,25 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+ul 
+{
+    list-style: none;
+}
+
+header 
+{
+    height: 50px;
+    width: 100%;
+}
+ul#header
+{
+    padding: 5px;
+}
+li#logo
+{
+    width: 50px;
+    height: 100%;
+}
