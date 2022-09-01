@@ -11,15 +11,26 @@ ul
 
 header 
 {
-    height: 50px;
+    height: 60px;
     width: 100%;
+    background-color: #CC9CDF;
 }
 ul#header
 {
-    padding: 5px;
+    height: 100%;
+    width: 100%;
 }
 li#logo
 {
-    width: 50px;
+    width: auto;
     height: 100%;
+    aspect-ratio: 1;
+    display: flex;
+    justify-content: center;
+}
+img#logo
+{
+    width: 100%;
+    height: auto;
+    align-items: center;
 }
